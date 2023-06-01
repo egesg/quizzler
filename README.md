@@ -1,6 +1,6 @@
 # quizzler
 
-https://github.com/egesg/quizzler/assets/122566233/7a5cf1ab-b12d-4af7-b8d3-bd7ba786f77e
+https://github.com/egesg/quizzler/assets/122566233/bed5ff91-73bb-4b71-b8d3-cdb2dbceb61b
 
 ## Getting Started
 
